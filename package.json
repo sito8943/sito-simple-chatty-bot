@@ -1,0 +1,26 @@
+{
+  "name": "simple-chatty-bot",
+  "version": "0.0.1",
+  "description": "JetBrains Academy medium exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SitoNumbis/sito-simple-chatty-bot.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Chatty-Bot"
+  ],
+  "author": "SitoNumbis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SitoNumbis/sito-simple-chatty-bot/issues"
+  },
+  "homepage": "https://github.com/SitoNumbis/sito-simple-chatty-bot#readme",
+  "dependencies": {
+    "sync-input": "https://github.com/hyperskill/sync-input/archive/v1.tar.gz"
+  }
+}
